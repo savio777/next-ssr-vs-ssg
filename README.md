@@ -1,1 +1,1 @@
-# app nextjs server side testing
+# app nextjs ssr vs ssg
